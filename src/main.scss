@@ -1,0 +1,10 @@
+$hello: 15px;
+
+ul {
+  li {
+    padding-right: 10px;
+    &:last-child {
+      padding-right: 0;
+    }
+  }
+}

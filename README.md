@@ -1,1 +1,3 @@
-# Sass-setup
+# After Clone
+
+Use commend "npm i"
